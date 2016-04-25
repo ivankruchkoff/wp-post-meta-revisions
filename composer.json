@@ -1,5 +1,5 @@
 {
-    "name": "wp-post-meta-revisions",
+    "name": "ivankruchkoff/wp-post-meta-revisions",
         "description": "Allow selected post meta keys to be tracked in revisions.",
         "version": "0.2.3",
         "license": "GPL-2+",
